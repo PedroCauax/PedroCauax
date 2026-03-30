@@ -1,6 +1,7 @@
   👋 Olá, eu sou Pedro!
 
-  Engenharia de Software
+ Desenvolvedor Back-End Java
+ Engenharia de Software
   Em constante evolução com foco em backend e banco de dados  
   Sempre explorando novas ferramentas e boas práticas de desenvolvimento  
 
